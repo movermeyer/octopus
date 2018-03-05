@@ -2,8 +2,8 @@ octopus
 =======
 
 [![Build Status](https://travis-ci.org/heynemann/octopus.png?branch=master)](https://travis-ci.org/heynemann/octopus)
-[![PyPi version](https://pypip.in/v/octopus-http/badge.png)](https://crate.io/packages/octopus-http/)
-[![PyPi downloads](https://pypip.in/d/octopus-http/badge.png)](https://crate.io/packages/octopus-http/)
+[![PyPi version](https://img.shields.io/pypi/v/octopus-http.svg)](https://crate.io/packages/octopus-http/)
+[![PyPi downloads](https://img.shields.io/pypi/dm/octopus-http.svg)](https://crate.io/packages/octopus-http/)
 [![Coverage Status](https://coveralls.io/repos/heynemann/octopus/badge.png?branch=master)](https://coveralls.io/r/heynemann/octopus?branch=master)
 
 `octopus` is a library to concurrently retrieve and report on the completion of http requests.
